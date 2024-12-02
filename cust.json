@@ -2,19 +2,19 @@
   {
     "orgname": "Luru Inc.",
     "tdc": "Luru",
-    "veeam": "Luru"
+    "veeam": "Luru",
     "SPLA": "3sadf3"
   },
   {
     "orgname": "Disney Inc.",
     "tdc": "Disney01",
-    "veeam": "Disney"
+    "veeam": "Disney",
     "SPLA": "45sd4"
   },
   {
     "orgname": "Demo GmbH",
     "tdc": "DEMO",
-    "veeam": "DEMO"
+    "veeam": "DEMO",
     "SPLA": "45sd4"
   }
 ]
