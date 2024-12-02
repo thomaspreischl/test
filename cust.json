@@ -7,8 +7,14 @@
   },
   {
     "Name": "Disney Inc.",
-    "tdc": "Disney",
+    "tdc": "Disney01",
     "veeam": "Disney"
+    "SPLA": "45sd4"
+  },
+  {
+    "Name": "Demo GmbH",
+    "tdc": "DEMO",
+    "veeam": "DEMO"
     "SPLA": "45sd4"
   }
 ]
